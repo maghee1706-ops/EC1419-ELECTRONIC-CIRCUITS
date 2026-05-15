@@ -1,4 +1,4 @@
-<img width="1600" height="1053" alt="image" src="https://github.com/user-attachments/assets/75a01258-98c7-4104-95a5-29d1868641a7" />## EC1419-Electronics Circuits-Lab
+
 **EXP NO:1**
 # <img width="847" height="606" alt="image" src="https://github.com/user-attachments/assets/e89cd66c-73d8-4d5b-845a-89e5ed05bd69" />
 
