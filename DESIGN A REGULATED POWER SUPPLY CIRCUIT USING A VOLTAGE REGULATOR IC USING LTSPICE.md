@@ -6,10 +6,14 @@
 
 <img width="756" height="368" alt="image" src="https://github.com/user-attachments/assets/aa815e31-1643-4c2b-afda-0c436818087e" />
 
-## Tabulations
+## Circuit Diagram
+<img width="1920" height="850" alt="595874261-ca25e1f3-9b3c-4716-bac6-ccf7bb4d6bd2" src="https://github.com/user-attachments/assets/84f52cdc-622e-41a7-b140-16d2879350c6" />
+
 
 ## Graph
 
 
+
+<img width="1920" height="421" alt="595873864-35422fd9-6366-413e-bed0-e8105f769b9e" src="https://github.com/user-attachments/assets/58152dac-7afc-4785-9d32-b3cf04293eac" />
 <img width="853" height="183" alt="image" src="https://github.com/user-attachments/assets/ee91e1c1-171c-4208-83ee-e61ea1ba626c" />
 
